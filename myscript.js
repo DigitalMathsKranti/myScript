@@ -16,4 +16,5 @@ setInterval(()=>{
     image.style.transform = `translateX(${-translate}%)`;
 
 },5000)
+/********************************* */
 /* photo Running One By One */
